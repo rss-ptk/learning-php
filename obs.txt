@@ -1,0 +1,12 @@
+git add -all
+	ou
+git add "nome do arquivo"
+
+
+git commit -m "comentário"
+
+
+git push apelido-do-repositorio nome-do-branch
+git push origin master
+
+
